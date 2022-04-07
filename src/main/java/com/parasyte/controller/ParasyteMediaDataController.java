@@ -1,7 +1,6 @@
 package com.parasyte.controller;
 
 import com.parasyte.apiDao.MovieDbApiCall;
-import com.parasyte.model.MediaSearchResult;
 import com.parasyte.model.MediaSearchResults;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
