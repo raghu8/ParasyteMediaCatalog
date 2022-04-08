@@ -14,6 +14,8 @@ repositories {
 
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation group: 'org.freemarker', name: 'freemarker', version: '2.3.31'
+	implementation group: 'org.springframework.boot', name: 'spring-boot-starter-mail', version: '2.6.6'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
