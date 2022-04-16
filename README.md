@@ -23,3 +23,7 @@ https://codepen.io/pixelnik/pen/pgWQBZ for example utilization)
 
 
 
+Refer to https://www.w3.org/Addressing/URL/4_URI_Recommentations.html for URL design
+
+
+
